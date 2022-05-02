@@ -8,7 +8,3 @@ I wanted to start some python projects to make a Python resume of sort. I am usi
 
 
 The thought process when tackling this challenge was really just, taking the words and splitting it up to individual letters, and then with a made dictionary of the alphabet combined with the morse code value of each alphabet I returned the letter in morse code value.
-
-![thought](/images/DictionaryData.png)
-
-
