@@ -1,6 +1,7 @@
 # Text-to-Morse
 
 Text to morse translator!
+
 ![fun](/images/Fun.gif)
 Pretty simple terminal style translator!
 
