@@ -1,7 +1,7 @@
 # Text-to-Morse
 
 Text to morse translator!
-![alt text](https://github.com/ShakeLDV/Text-to-Morse/images/Fun.gif?raw=true)
+<img>(https://github.com/ShakeLDV/Text-to-Morse/images/Fun.gif?raw=true)</img>
 Pretty simple terminal style translator!
 
 I wanted to start some python projects. I am using the Python 100 Days of Code to build up a portfolio with the challenges at the end of the course. I wanted to start off small and something pretty easy to visualize and easy to approach so I started with the Morse Code Translator.
