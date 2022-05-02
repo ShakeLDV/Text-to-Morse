@@ -1,4 +1,4 @@
-# Text_to_Morse
+# Text-to-Morse
 
 Text to morse translator!
 
