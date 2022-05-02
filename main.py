@@ -2,7 +2,8 @@ from data import morse
 
 def convert_to_morse(text):
     morse_text = [morse.get(i) for i in text]
-    return " ".join(morse_text)
+    morse_text = " ".join(morse_text)
+    return morse_text
         
         
 
